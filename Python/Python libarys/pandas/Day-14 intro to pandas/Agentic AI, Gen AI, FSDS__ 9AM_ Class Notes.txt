@@ -1,0 +1,1619 @@
+=== Fsds , Advanced Gen AI & Agentic AI  
+Live Webinar Link: https://zoom.us/j/87240377311
+
+===== 27th
+Agenda for today session -->
+----
+1- Student who joined for the 1st time i will take littile over view session for 5-10 min 
+			please wait for some time then i will cover at last 10min 
+2- About placement --- did you got it 
+3- capstone project & resume project  -- done 
+4- certification genai, agentic, datascience certification 
+5- github creattion 
+
+my course -- full stack datascience with advanced geni & advacen agentic ai -- 5-6 month (32k) 
+	you have budgest issue 
+advance gen ai & agentic ai -- 3month (25k)  - you go join there
+
+they way you guys look for good industry mentor i am also looking for quality student 
+	student who commaon sense who is ability to think who is right wrong 
+
+	when you get offer i will grow my company nareshit grow 
+
+criket team vs cricketier --
+
+bfsi -- banking, finance, service, insureance 
+	capstone project other name is live project 
+	what is mean by live -- the project has no dead 
+banking, insura, healthcare, 
+
+=== today i finished all demo session 
+who can join ths course 
+placement
+certification 
+capstone project 
+laptop 
+course syllable 
+roadmap 
+=== how to create github 
+what is github -- github is public or private repositroy used by every working professional 
+	in the induste, college, deployment , save your regular file 
+	
+github & Bitbucket 
+github.com -- public & Private 
+bitbucket.com -- only private no public 
+
+when you buey any laptop will you create folder 
+you can save file, image, code, 
+we will create folder in github.com -- repository 
+
+==== 28th
+
+Without python you not even build single project 
+
+python 4 part 
+	1- python introduction 
+	2- basic python 
+	3- advanced python 
+	4- oops python 
+
+1- python introduction 
+
+	maximum knowledge you will gain in live class only 
+online team -- please listen proper internet, ecosystem , 
+offline team -- fresher if you are cannot understant classes pack bag come tohyder 
+		attned offline mode ( expereicne) fresher 
+		
+java -- 10 line of code 
+python -- 1 line of code  
+
+python we have powerfull framework -- library 
+langhcain 
+langgrpph 
+mcp ( model contex protocol) 
+
+1- poc -- work with number 
+google - google colab
+3 + 5 
+3 , 5 -- operand, + -- operato 
+oops concept -- operator overloading ( polymorphism) -- oops concept 
+
+
+	
+please learn this subjec to not complet the program 
+learn this course to gain thek 
+
+
+GET JOB -- INTERVIEW -- RESUME --CAPSTONE PROJECT -- SKILL -- 9am batch -- (prakash senapati)  
+
+_  -- store previous value
+/ -- float division 
+// -- int division 
+dmas -- division, multiplication, addition, substract 
+# -- comment the code line 
+		you join new company developer was there 
+		he quit the job h emust be writing some cod eco
+		same company if you dont write comment ( you cant understand) 
+		best practise is please comment the line of code 
+
+
+extension excel file -- .xlcx 
+extension of word -- .doc 
+ext of notepad -- .txt 
+ext of pdf -- .pdf 
+ext of html -- .html 
+ext of xml -- .xml 
+ext of python -- .py 
+ext of python -- .ipynb ( interactive pythn notebook) 
+
+data store in ths source -- datasciece n( data + science) 
+python software they upload kgf movie.mp4 ( software will creash) 
+
+=== 29th
+0- coding skills vs non coding skill -- done 
+1- software installation - done 
+2- python introduce -- skip 
+3- I will suggest how to download classnotes from google classrrom and how to upload the - done 
+4- Announcement 
+5- q & a
+
+1- software installation 
+
+
+15yr back - to complet one project (no google )-
+now if your little smart -- all codes are written by copilot, claude code, llm model write the code for you 
+	you dont need to learn code 
+learn code (30-40) & use vibe coding == success  
+
+you have one excel sheet or dataset -- please build dashboar to track kpi, business sales 
+	
+	we have bunch of ai agentic ai application where you need to basic of python 
+		
+1st point  - dont worry if you have 0 know coding ( indepth) i need work on it 
+
+2nd point -- how many of them install software by watching video which is avilabe in the gropu
+		
+		ANACONDA SOFTWARE INSTALLATION 
+		VS CODE SOFTWARE INSTALLATION 
+
+the learner who ever installed i will explain once then 
+
+bigdata, datascience, ml, ai, -- research are crate python is anaconda python 
+5cr people are using anaconda in the world 	
+	student can use absolut freely while learning 
+	organization -- pay for this serivice 
+
+1- data exploration & transformation -- NUMPY, PANDAS, 
+2- visualization -- MATPLOTLIB, SEABORN
+3- AI and Machine Learning -- SCKIKT LEARN, TENSORFLOW, KERAS, PYTORCH 
+4- NLP -- NLTK, SPACY, GENSIM, TRANSFORMER 
+
+	these librar internally installed by software itsel ( inbuild) 
+	
+what is mean by library -->
+		book store -- compass box librar -- many toolls 
+		numpy -- multiple function are availabel to work array 
+	
+Tensor -- collection of matrix 
+matrix -- collection of vector 
+vector - collection of scaler 
+scaler -- number 
+
+when ever you got any error - look for soluton just calm download	
+		try to talk yourself 
+		why that erro happen -- calm and think then error solve 
+		
+		
+		give space c-drive minig -- 50gb 
+		later we need to fix the path variable 
+		
+After succesfully install the anaconda software you will get below applciation 
+		jupyter noteebook 
+		spyder
+		anaconda navigator 
+		command prompt 
+		power shell
+		
+For Assistance:Leena Admin | Contact Number: +91 9133343369
+
+2- top no.1 ide in the world -- vs code -- 
+ 
+ - install  vs code from file 
+ - chk the path location -- c:user :admin 
+ - chek the terminal for vs code -- path location also same 
+ - go to the path location & create folder any name 
+ - make sure all code you shoul keep inside the speffic folder 
+ - system crash if you keep everything in folder -- code is your proper
+ -- all code you can push it to github 
+ -- file -- open foler -- point that to the folder location 
+				blackbox agent
+				claude code 
+				codex 
+				cline
+				jupyter 
+				kilo code ai 
+				office viewer 
+				pylance
+				python environement 
+	
+	
+== who ever select this courses nareshit team provide 3 complentry course absolut free for you 
+
+9am - 10:30- 10:45 am ( fsds with advane gen ai & agenctic ai) 
+
+11am -- 12:30 -- math & stats class  | 20-30
+2pm - database | free (30-45) 
+4pm - powerbi classes  | free ( 1month)
+
+6month -- if you give your life -- 18-20 ( 6months)
+
+
+if you cann attend ( studnet you dont have job) 
+experience  (my class + Job) 
+moksh bhatt -- fresher ( firest listence this + practicl) 
+
+=== 30th 
+----
+Agenda for today session -->
+---
+1- Introduce workflows | pipeline -- completed 
+2- N8n agent -- done 
+3- AI & ML Algorithm  -- done 
+4- Python Introction - continue 
+5- backup classes for new enrolled student -- 
+6- question and answer -- 
+
+==== Interview 
+
+workflow & pipelien not a separate subject 
+land -- you wanted to construct house -- workflow 
+
+talk to builder 
+foundation -- slabing - ground floor - 1st floor - 2nd floor -- inauge -- stay in house
+
+ ARTIFICIAL INTELLIGENCE -- machine are mimic human brain 
+		how machine are mimic human brian using library
+			tensorflow 
+			sklearn
+			langhcain 
+			langrap
+
+machine -- algorithm + librar == intelligence
+john mccarty in the year of 1956
+
+day by day AI become more smarer, more powerfull, more automation 
+AI 
+GENERATI AI 
+ADVANCE GEN AI 
+AGENTIC AI 
+ADVANCE AGENTIC AI 
+QUATUM AI 
+
+not for now next 20yr 
+online team in home sat & sun - hyd stay 
+
+fresher -- 5-6 monh
+
+1- have you receiveda any email, tweet from terrorist 
+		ml algorith block it 
+		
+2- non spam separte folder 
+
+3- fb account -- you have registrerdy yournam, dob ( machine store detail in his memory) 		
+		same dt -- machien wish you happy birth day 
+	
+4- engineer send a person to the mars , any plaent -- h eiwll come back 
+		war time -- if any go war -- person will alive or die sales
+	we are sending robots --- next version ai technology 
+			machine + ai algorithm (computer vision ) 
+					human visio -- 
+					computer vision 
+					
+5- transformer are we are convert (text to number	or vector	
+			image - vector 
+
+	machine are not understan what is mean by text 
+	machine never image 
+	
+	TRANSFORMER -- TRANSFORMED TEXT, IMAGE, VIDEO, AUIO -- to number or vector 
+		eda transformer
+		ml transformer
+		ai transformer
+		gen ai transformer 
+
+6- how to finetune llm model 
+		peft ( pretrained efficient finetun technique )
+				lora  -- low order rank adaption  
+				qlora  -- quantized lora 
+				
+
+=== please register get back to the class 
+
+=== python inroduction 
+1- python is easy language compare compare to other programing language 
+
+2- python -- ds, ml, ai, gen ai, ,agenti, cloud -- aws, azur, gcp, snowfake
+				aws -- amazon
+				azur -- microsoft 
+				gcp -- google
+				snowflake -snowflake 
+				
+3- 0 - hero | start - expert ( basic python, adavnce python oops python, few datastructure) 
+
+4- weekly i will share some video link to you ( watch this) take note 
+
+5- if you have not learn any program then no worry 
+
+6- IDE ( integrated developement environment)
+			using IDE - one can write code, run the code, debug the code
+				error - bug | fix the error - debugging 
+						vs code | jupyter | spyder | pycharm 
+						
+	
+7- offline and online both are same 
+		offline -- you can have room with ac big screen with me 
+		online -- you can make your much better ( set up ) 2 laptop (1 devie - other ) 
+
+==== 1st 
+
+i will share all the backup class 
+i will reviese at last 10 min for my new student 
+fri, sat, sun -- listen all the backup class & install the software come back on monday with laptop 
+
+ For Assistance:Leena Admin | Contact Number: +91 9133343369 
+ 
+mon - sat @ 9 : 00 - 10:40 2nd sat & 4th sat holiday 
+
+offline tam -- may it hot cliemate ( 45)
+		food ( pack) -- office 
+		online team -- student 
+		online tam lab are open 9-6 base on your 
+				
+month --1 sat (
+pleas ewrite down allyour question ( any question try to solve, mentor, come back to me) 
+online -- try to make you envionment calm 	
+
+----		 
+what is mean by python compiler & Python interpreter ?
+----
+developer write text -- machine will convert to text - code 
+	if the code is correct you get output
+	if the code is not corect you will bug
+
+interpreter -- execute the code line by line or group of line 
+compiler -- entire code run at once  
+can you answer me . does python is compiler or interpreter ? 
+
+pvm -- python virtual machine
+if any body doesnot software you got sat, sun -- install 
+please do not compare java with python, c with python, c++ python 
+
+god create python for non technical student & technical student 
+non technica hard to learn java, c, c++ ( logic
+		
+== python is oops concept 
+	object orientented programming language 
+	
+class 
+object 
+method 
+encapsulation 
+inheritence 
+polymorphism
+abstraction 
+	
+ 
+after your registration please screen shot payment share payment leena
+	if she not able response immediatly dont angry 
+	child - you - seniout-- angry 
+	angry -- d
+	soltuion -- calmness 
+	
+most realtime problem solve by object 
+Father of python - Guido van Rosam
+how name python comes from 
+
+he is very very about fun show -- complete monty python flying circus ( brodcast on bbc) 
+	python -- 
+Netherland -- city 
+
+pythn is not new language | it was old language 
+
+	Java released on 1995. 
+	python was released on 1989 
+	officialy released on (feb 20th 1991)
+	
+python is old but no one use at that till 2015 ( research ) backeward workg on 
+	when ds, ml, ai, geni, agenti ai has -- slowly company are used python programin 
+		it is no.1 
+
+everybody wants to very very less code 
+every compay are using python, java, c, c++ 
+		they are only using python 
+		
+platform independent 
+		win, linux, mac 
+write one code ( same code can run in win, linux, mac) 
+
+python cannot used in mobile applicat, android 
+
+- python 1.0 -- jan 1994
+- python 2.0 -- oct 2000
+- python 3.0- 	dec 2008 -- 
+		we are continue 3.1, 3,1 3.10, 3.11. 3.12
+
+function alwasy ends with () 
+function are collection of statment 
+	inbuild function  or built in 
+	user define function 
+
+laptop - os inbuild 
+laptop -- wind 10 -- wind 11 ( user define ) 
+
+if you non technical -- take recording 
+
+3 funciton we are created 
+
+usbrandcars()
+germancars(audi, bmw, volkswag) -- (3 arguments ==  parameter 
+asiancars(swift, toyota, tata, mahindra) -- 4argument = 4 parameter 
+
+1- user define the function usbrarncars() ----- 				(fuction without argument) 
+2- use define the germancars() with --- 3 argument | thid concept we  -- fun with argument 
+3- user define the asiancars() -- 4argument | fun with argument 
+
+function without argumen 
+function with argument 
+
+===== 4th
+Agenda for today session -->
+---
+
+1- almost 15 learne joined new ly today (offline- 8 onlie - 5) 
+		new batch ok team -- only 8 days ( i will share recording and every day last 10min i will 
+				take the backup classes so that you havent miss anything) 
+				
+2- when you scan it whatsapp 	-- all the course content , demo recording till 2week) 
+
+3- work with string | friday - worked with number and operators 
+		number || integer == int 
+		text || string == str  
+		
+4- 10+5 
+
+window -- 11 , 12 
+python version -- 3.13 -- 3.13.9 | 3.13.10 | 3.13.11 
+
+going forward everytime if you want to displya the output then please use print() 
+everytime function ends with () 
+
+
+family1(d, m) -- how many parameter 2 parmeter = 2 argument
+family2(d, m, s, d) - family2 function with 4 argument or 4 parameter 
+family3() -- 0 argument function without argument 
+
+every programming language text alwasy ends with -- '' , "" , ''' ''' 
+
+
+do not worry about length of code (100000line) every code has given by llm , agent is write 
+you should basic information codeing terms 
+
+string alwasy define with '' , " " , ''' ''' 
+
+single quotes & doubl quote both are same 
+''' ''' -- work for multiline comment 
+
+1- work with number 
+2- work with number and operator + -, * **, //, /, *, bodmas
+3- work with string 
+4- kid birth nameing ( name is powerfull) 
+		python name is called variable 
+		variable = identifier == object 
+	
+	nareshit technology = nit = naresh it 
+
+5- python variable 
+syntax 
+		(variable = value )
+		value also called = datatype 
+		
+	v = 5
+	v - variable 
+	value - 5
+	
+name - house -- addre 
+variable - memory -- addres  
+id() -- address of the memory location 
+
+=========
+if you are hunger for job | hunger for salary to not depende any one in the world
+1- listen the classe well 
+2- after the class code ( wathc the document and code) 
+3- evening do not watch write code 
+4- revise the concept what have you student in day 
+5- keep doing for 1yr 
+6- god damn you will get success 
+==========
+
+
+1- variable is case sensitive ( if user assigned variable with lowercase then you have toc all wit lower case only) 
+2- variable doesnot start with digit but varaible end with digit 
+3- variable doesnot accept any special character except _ 
+4- keywords are not defina as variable  
+keyword also called as reserved word 	-- very very import 
+
+		keyword has some special meaning in codeing world
+			java also has keyword 
+			c also keyword 
+			python also keyword 
+			
+moment when you complete learning on those keyworkd -- python is completed 
+
+['False',  'None',  'True',  'and',  'as',  'assert',  'async',  'await',  'break',  'class',  'continue',
+ 'def',  'del',  'elif',  'else',  'except',  'finally',  'for',   'from',  'global',  'if',  'import',
+ 'in',  'is',  'lambda',  'nonlocal',  'not',  'or',  'pass',  'raise',  'return',  'try',  'while',
+ 'with',  'yield']
+ 
+ === 10 min for back up classes 
+  3-5 day (demo session i will explain for new student )
+ 
+ === 5th 
+ agenda -->
+ --
+ 1- text (string) 
+ 2- data type
+ 3- 1st, 2nd , 3rd time i will take the backup class for last 10 min 
+  python provided 35 keywords 
+  java also has bunch of keywords
+  if we learn all the keywords in depth then python programming is complete 
+  java also java got some keywords 
+  c got some keywords --when you learn all these keywords programis is completed 
+  
+
+If you are non technical guys if you liternot understnad please talk to me or talk to mentor ask them for help 
+
+now a day very hard to sit 5hr infront laptop 
+the day when you sat 5hr for learning -- you will get a job 
+ 
+ variable = value 
+ yesterda we are complete varibale 
+ today we will work on value == datattype 
+ 
+ python inbuild datatypes -->
+  
+int -- understand 
+float -- value with decimal 
+bool -- True or False 
+complex - 
+str - 
+  
+int -- number without decimal 
+Inbuild() -- id(), print() len(), type() 
+float we used | e -- exponential 
+
+e0 - 1.0 | E0 
+e1 - 10.0 | E1 
+e2 -100.0 | E2
+e3 - 1000. 0 | E3 
+
+
+
+playstore -- google classroom 
+
+complex datatype is availabe only in python programming langauge 
+no other programmin language complex is 
+
+complex == 10+20j 
+
+format --- a + bj 
+a - real part 
+b - imaginary part 
+j - squre root of -1 
+compla for some big math code -- 
+
+when i explain some thting please dont code 
+when i tell code -- i will give 
+
+from tomorrow onward -- try to work 
+
+=== 6th 
+0- revise yesterday session 
+1- string datatypes 
+2- type casting from one datatype to other datatypes 
+3- i will tell how to download classnotes from google classroom how to post the notes to classroom
+4- github & linkedin (both account will goes to resume) 
+5- backup classes 10min 
+6- question and answer 
+------
+string -->
+-------
+python index begins with 0  
+String indexing & sting slicing -->
+-----
+python indexing -->
+---
+forward indexing --> LEFT TO RIGHT 
+backward indexing --> RIGHT TO LEFT 
+
+
+
+
+
+
+
+
+		
+		
+		
+
+
+
+
+== when you speck thse 
+function 
+fun without args
+fun with args
+parameter 
+int
+string 
+error type 
+
+
+forward indexing are we clear 
+backward indexing  are we clear 
+
+s= 'welcome'
+
+to this kind of work -- lets introdice slicing 
+
+python[:] -- print everything 
+
+in slicing [L : R] RIGHT INDEX ALWAYS IMPLEMENT (n-1) formula & formula is not applicable for left index 
+
+
+[2 : 6] -- print the (value or element) from 2nd index to 6-1 = 5th index 
+[ 2 :     ] -- print the value from 2nd index till last 		
+[  : 6 ] -- print the value from 0th index till 5th index 
+
+advance slicing -->
+
+[ 1 : 100 : 10] -- print the value from every 10th step pring the index 
+	1 -- 11 - 21 - 31
+		1 - start index 
+		100- end index 
+		10 - step indexing 
+
+
+slicing &Indexing in numpy , panda, machin elarning 
+AI 
+GEN AI & ADVANCED 
+AGENTIC & ADVANCE 
+
+====  7th 
+1- Revise yesterday topic  -- done 
+2- Type casting  -- done 
+3- Python basic operator -- 
+4- Q & a 
+5- Assignment 
+
+
+Today i will share one drive link please fill your introducion 
+	fresher, 
+	experence -- which domain 
+	carrer gap -- i will give some guidan 
+
+type casting -- convert one datatype to other datatype 
+
+1- convert all datatype to integer - we cannot type cast from complext to int 
+
+python type casting concept we cannot use 2 argument alwasy works with only 1 argument 
+---
+Testcase:1 while type casting (other dataype to int) 
+	from other datatype to int except ( complex , text string, user cannot pass more then 2 argument) 
+---
+Testcase:2 while type casting (other dataype to float) 
+	from other datatype to float except ( complex , text string, user cannot pass more then 2 argument) 
+---
+Testcase:3 
+	while type casting from other dataypes - every type cast will work 
+---
+Test case : 4
+		while type casting from other data type -- complex possible
+				user cannot pass 2 argument as string , 
+				if user want to pass string argument then it should be only one argument should string 
+---
+Test case : 5
+	while type casting from other data type -- string (no issue at all) 
+			type casting we are completed 
+			
+===== python operators 
+1- arithmetic  - +, -, *,, /, //, %, ** 
+2- assignment  +=, -=, *=, /=, //=
+3- relational -- we are using this operator for comparing |	(>, <, <=, >=, ==, !=)
+4- logical  -- and, or, not 
+5- unary - minus operator (-) 
+
+=== 8th 
+
+1 and 1 = 1 & Rest of them are 0
+0 or 0 = 1 & Rest of the combination are = 1
+
+1- Number system 
+2- Bit wise operator 
+3- package, moduel, function  
+4- Introduce to math module 
+
+if you are not  understan the number system then you canot understand bitwise operator 
+
+1- Number system 4 part 
+		binary number system 
+		octal number system 
+		decimal number system 10 (0x)
+		hexadecimal number syste 16 (0x) 
+-----
+Binary NUmber system -->
+-----		
+	value are only 2 value -- 0 & 1 
+	assigne with 0b
+	base 2
+==
+octal number system 
+	value are rangine from 0-7
+	assigned with 0o
+    base 8
+
+===
+	decimal number system  (0-9)
+	assigned with 0x
+	base 10 
+===
+		hexadecimal ( 0-16)
+			do you hve 16 keywords in you laptop 
+				0 - 9, a-10, b-11, c-12, d-13, e-14, f-15 
+		base vlaue is 16
+		
+= how to convert number to binary number system 
+= 
+
+today we understod about python number system 
+== real time where it is using all hexadeciman number system are written in IPADDRE 
+
+=== 	Bit wise operator -->
+
+1- complement ~
+2- bitwise and & 
+3- bitwise or  
+4- xor (xclusive or) ^
+5- left shift <<
+6- right shift >> 
+
+1- complement ~  | 	always store negative  value 
+  ~12
+ 2- bitwise AND ( & )
+3- bitwise or | 
+4- xor ^ (xclusive or) 
+5- left shift <<  ( we are gaining bit <<2 ( 2bit (2) if 1bit (1 zero i will gain) 
+6- right shift >> ( we will loos the bit ) >>1 ( 1bit we will loose) >>2 -- 2bit we will loose 
+
+=== 11th 
+
+I Would request my learer to not upload .ipynb file 
+please upload pdf 
+
+== package == library 
+		  collection of modules
+			NUMPY 
+			PANDAS 
+			MATPLOLTLIB 
+			SEABORN 
+== module -- 
+		collection of function 
+		
+== function - 2 type 
+	     inbuild function or buildin function 
+	     user define function 
+		 
+== framework 
+			web framework -- django, flask
+			ml framework -- sckiit learn (sklearn)
+			nlp framework -- NLTK, spacy
+			Ai framewok -- Tensorflwo, keras, pytorch 
+			Geneartive framework -- Langhchain, Langgraph, langsmith 
+			Agentic AI framework -- crewai, phi data etc 
+			
+using these frame work we can build autonomus agent 
+chabot project 
+			
+FRAMEWORK vs PACKAGE(library) vs MODULE vs FUNCTION 
+				after 6month you got compleete pictre of these specific item 
+			
+			
+math is module & it has many inbuild function 
+math.sqrt() 
+
+
+import keyword 
+as keyword
+from keyword 
+
+35 keywords 
+			
+input() - buildin function 
+
+whatever project we see in the world 
+backed coded must be written in input()
+
+start the business 
+run the business  -- this is very tough 
+
+
+join the course - easy | 70 
+maintai the course -- dedication , pract, , dream, goal -- very vyer tought - 30%
+ all 30 % get placem 
+ 
+the moment when user enter 
+
+input() -- console is waiting for user to enter input
+
+SOFTWARE JOB 
+BANKING JOB 
+STOCK MARKET 
+GOVT 
+
+
+input() -- everytime take string not int 
+	sting to int  -- type casting 
+
+1- intro to input()
+2- input() - bydefault it takes string
+3- typcast from string to int 
+6- input with indexigng 
+7- input() with eval 
+
+=== 12th 
+---
+agenda -->
+--
+1- python datastructure 
+2- NareshIt placement 	
+=====
+datatype -- user define only 1 value 
+		a = 5, b = 2.3, c = 'nit', 
+vs 
+datastructure 
+	user define more then one value is called data structure 
+	
+1- datatype -- int, float, complex, bool, string 
+
+2- data structure -- collection of datatypes 
+
+	Inbuild datastructure -->
+		list 
+		tuple
+		set
+		dict
+		range 
+	
+	user define datastructure 
+		stack 
+		queue 
+		tree 
+		linkedlist 
+		array
+	
+we mostly focus on inbuild datastrucuce 
+user datastructre take care by library 
+
+3- matrix -- collection of vector |
+					collection of datastructure 
+	library -- NUMPY 
+	
+4- dataframe - table - collection of rows & columns 
+		libray -- pandas 
+		
+5- tensor -- collection of matrix 
+			library or package - pytorch == python + torch 
+
+DATATYPE vs DATASTRUCTURE vs MATRIX vs PANDAS vs TENSOR 
+
+DATAYPE -- we completed 
+Datastucture ---> 
+
+==== 13th
+append() -- append only 1 value we cas pass . that value will at the end   
+vs 
+extend() - extend --  append  entire list 
+
+
+online team -- learner who joined at late -- m sure you will drop in mid our journey 
+offlineteam -- not listenitn ( write code ) -- you drop 
+
+please stay will join one time 
+
+train 9am -- 9:30 train will leave( does not reach you destiny 
+time is god 
+
+sorting -->
+ ascending sorti
+ descending sort 
+ 
+sorting function alwasy implement in similiar datatype 
+
+parameter tunning -- bydefault (system give the parameter) 
+
+hyperparamter tunning -- window 	11 (user removed w 10 - fit w11 ) 
+		user or developer change the system parameter is called hyperparamter tunning 
+
+llm model -- finetunning concept  
+
+
+1:15 min -- 
+ 
+ 3-4 hr ( please each & every line please understand )
+
+if you missout few concept daily class -- please take recordin g 
+		32 -- 50lconten  ( take recording) for your better future 
+		
+please listen -- see the magic 
+
+what ever session -- please complete the practicle 
+	fresher will leave orquit cuz i am assigning more practicle ( looser mindset 
+	
+==== 14th 
+
+1- tuple datastructure  -- done 
+2- set datastructure 
+	 set & dict both are assinged with {} 
+
+{} -- empty curly system automatically underst it woould be disct 
+it wont be set 	
+	
+{1,2,3} -- considier it will be set 
+
+
+every llm model has build with bunch of argument 
+
+
+
+
+
+
+
+
+====LIST -->
+
+1- []
+2- list is growable 
+3- duplicate is allowed 
+append() -- add value at the last 
+append() -- we can pass only 1 argument 
+multiple datatype is allowed 
+copy() -- copy one list to another list 
+list is mutable | changeable | 	once user defin the value we can change the value at any point of time 
+Extend()-- append the list 
+Insert() - add the element before index ( it take bydefault 2 argument) 
+index() - index position of the value 
+pop() -- remove the element by index level ( bydefault last index) 
+reverse() --reverse the list 
+
+== tuple() 
+1- () 
+2- immutable ( not changeable) example -- unknow cant change any personal information 
+3- count() 
+4- index() 
+5- tuple duplicate are allowed 
+
+
+=== set()
+1- If user assing similar dataytype it will print ouput as order item 
+2- indexing & slicing is not allowed 
+3 set.pop() -- it will remove the value 
+	set.pop(3) -- it wont work because ( set doesnot alow indexing and slicing )
+
+==== 15th 
+
+everybatch different type of learner 
+	nontechnical -- workhard (10hr of time need more work)
+	only focus they not even not practicse
+	only that 
+everyday i will give more assginment -- you will finish the work 
+	
+1- set operation 
+2- dictionary 
+3- I will schedule test (mcq) coding 
+		what every i teach you from day1
+
+
+1- set operation 
+	
+		
+		chatgpt give you code , you exectu, code ,, app will beuild 
+		you need to explaing code 
+				cfuncation 
+				argument 
+				method 
+				matr 
+				
+		
+union - | display all set 
+intersection -- common item it will display 
+difference - remove common item 
+symmetric differnece ^ ( display set without common itme
+intersection_update -- commomn item will modfiy variable 
+differnece_update -- 
+symmetricdif_update 
+
+superset, subset, disjoint 
+
+superset -- dad 
+subset - son 
+disjoint - neighbour 
+
+if you listen to me well -- datascience 
+	active listeing 
+	dont code 
+	listen firest -- 
+	
+=== dictionary 
+
+as we spetn 3-4 day on list, tuple. set (dict will be easy) 
+
+d = (key: value)
+open bank account 
+custoemr -- form 
+
+=== 16th
+Good job team -- today everyone take the test 
+wheen ever you do future projec please check what is the dataytpes 
+
+
+in interview please do not speak abot set is mutabl or imutable 
+list, dict -- mutable 
+tuple -- immutable 
+set - immutable 
+
+interview -- what every the ask give that answer only dont give any extrac answer 
+let them question then only you answer
+deabatbale topic -- fish market 
+inter do not talk aliutset is mutable  
+
+==== 18th 
+1 - print function ()
+2- Numpy today ( Matrix) 
+
+- print result without string 
+- print result with string
+- print Format method 
+- More short format meythod(f string method)
+the .format() number of variable == no of curly brackes user must need tomention 
+
+=== NUMPY very very powerfull library 	
+			data anlaysis 
+			business anlaysis
+			machine learning 
+			artificial intelligiencce
+			computer vision 
+			rnn concept 
+			lstm 
+			speec recognition 
+			generative ai 
+			predictive model 
+			
+Numpy -- this power full library 
+	
+1d array vs 2d array vs 3d array vs nd array 
+
+Numpy -- Numpy is the librar which handle multidimensin array (nd array)
+		n number of rows 
+		n number of columns 
+--		
+Numpy where to be used -->
+--
+- arithmetic operation 
+- statstical operation 
+- bitwise operators 
+- coyping & view arrya 
+- matrix operation 
+- linear algebra 
+- broadcasting
+- math operation 
+- searching, sorting, countring 
+
+
+np.random.randint(3)
+		int geneat between ranage 0- 3 ( n-1 is applicable ) 3 , 0, 1, 2 
+		
+	
+	
+np.arange() -- arenge the number between the range
+np.zero() 
+np.ones() 
+np.random.rand() -- every timegenerat float value 
+np.random.randint()-- every time it will geneate int 
+
+
+every image is broxkend doew - 10 by 10 matrix , 10 * 10 matrix  == 100 box 
+
+how to print row in matrix 
+
+==== 19th 
+
+len() -- no. of rows 
+.shape -- dimension (rows * columsn) of an array 
+
+how to print rows 
+how to print array(1d, 2d, nd) 
+forward slicing
+backward slicing
+step slicing 
+how to print specific value 
+
+do not confuse between :, ,
+
+array when you see , -- indicate specific value relanve to rows & columns
+
+bydefault 1st number alwas belongs to rows 
+2nd value alwasy belo 
+
+m[r : c]
+m [r, c]
+			
+poc:1 -- proof of concept 1 
+		numpy crash course 
+		
+poc-2 : how to convert image to array 
+		image -- unstructured data 
+		
+=== 20th 
+
+1- Tomorr 6pm onwards genai & agentic ai internship 30 days 
+		college -- offline internship 
+		working professional -- 
+		industry relavnt inter
+		paid one 
+		
+2- I do see the lot of placement coming nareshit 
+		
+		10-15min we will resume 
+		1month -- 2month -- 
+		
+		working profession -- experience resume 
+		daily attend - concet learning -- high skill resume
+		other type of learn -- skill resume 
+		
+3- I will post or my team will post in the group 
+
+== NUMPY Advance functionality
+
+1- array creatation function
+2- array maniupulation function 
+3- math function 
+4- 
+
+np.ravel  - flatten arry -- matrix will convert to linear vector 
+np.transpowe -- convert rows to columns 
+np.vstack -- vertical stacking 
+np.hstack -- horizontal stacking 
+random sample -- 
+
+dice -- 6 side 
+when roll dice for random number -- random sample 
+
+np.random.seed(0) 
+
+np.random - it will generae random number 
+np.randon.seed - stop to gneae random ranumber 
+
+
+I am sharing one final doc today -- all numpy function 
+	whateve you feel easy -- please comple that first 
+	
+==== 21st 
+matploltib -- library for visualizat or graph 
+
+real time where we see these visualization -->
+	stock market graphs 
+	gdp rate anlaysis
+	sport industry 
+	blood test -- graph is there 
+	x ray -- graph 
+	dashboard 
+	
+	
+NUMPY -- nd array (1week) 
+MATPLOTLIB -- visualization 
+PANDAS -- dataframe or table 
+SEABORN -- statistical visualization 
+SCIPY -- statistical operation 
+SKLEARN | LGBM | XGBOOST -- machine learning 
+NLTK, SPACY, -- NLP task 
+TENSORFLOW KERAS -- Deep leanrign & neural network 
+COMPUTER VISION,, YOLO, MEDIAPIPE -- computer visoion model | CNN 
+LSTM, GRU -- RNN concpet 
+LANGCHAIN, LANGGRAPH, PYTORCH -- build geneative ai model 
+WHISPER -- build speech recognition
+CREWAI , AUTOGEN, - build agents 
+powerbi, table - software application to build dashboard 
+STREAMLIT, GRADIO -- frontend 
+FASTAPI -- BACKEND FRAMWRK
+FLASK-- web framewor
+TKINTER -- GUI application 
+
+
+if develper apply these frameworks to machine -- macheine will mimic like human 
+	
+slowly slowly when the session most of the people give up they are codeing is not possible 
+10yr back lot of ai tools 
+
+ 
+NUMPY + MATPLOTLIBE -->
+
+use case : -1:
+
+client -- espn or star sports 
+company -- nareshit 
+emplyoee  - 9 am batch 
+	
+	
+business problem statment ->
+		10 cricket player 
+organization need to find the patterns, insight from the dataset ?
+
+
+import warnings
+warnings.filterwarnings('ignore') 
+**Markers**
+
+=============   ===============================
+character       description
+=============   ===============================
+``'.'``         point marker
+``','``         pixel marker
+``'o'``         circle marker
+``'v'``         triangle_down marker
+``'^'``         triangle_up marker
+``'<'``         triangle_left marker
+``'>'``         triangle_right marker
+``'1'``         tri_down marker
+``'2'``         tri_up marker
+``'3'``         tri_left marker
+``'4'``         tri_right marker
+``'8'``         octagon marker
+``'s'``         square marker
+``'p'``         pentagon marker
+``'P'``         plus (filled) marker
+``'*'``         star marker
+``'h'``         hexagon1 marker
+``'H'``         hexagon2 marker
+``'+'``         plus marker
+``'x'``         x marker
+``'X'``         x (filled) marker
+``'D'``         diamond marker
+``'d'``         thin_diamond marker
+``'|'``         vline marker
+``'_'``         hline marker
+=============   ===============================
+
+**Line Styles**
+
+=============    ===============================
+character        description
+=============    ===============================
+``'-'``          solid line style
+``'--'``         dashed line style
+``'-.'``         dash-dot line style
+``':'``          dotted line style
+=============    ===============================
+
+Example format strings::
+
+    'b'    # blue markers with default shape
+    'or'   # red circles
+    '-g'   # green solid line
+    '--'   # dashed line with default color
+    '^k:'  # black triangle_up markers connected by a dotted line
+
+**Colors**
+
+The supported color abbreviations are the single letter codes
+
+=============    ===============================
+character        color
+=============    ===============================
+``'b'``          blue
+``'g'``          green
+``'r'``          red
+``'c'``          cyan
+``'m'``          magenta
+``'y'``          yellow
+``'k'``          black
+``'w'``          white
+=============    ===============================
+
+datanalays, foundation -- jupyter notes 
+
+	databrick -- jupyter note 
+	cloud -- jupyter notesbook 
+	everydomin  jupter notes 
+
+jupyter 
+machine -- spyder 
+ai, genai, agent -- vs code, 
+agentic ai -- vsc ode + ageni ide extension 
+
+
+==== 22nd 
+
+1- complete today mini - project
+2- one compnay came for placement  - 
+3- who placed after complete mycourse 11lpa ( Video message) 
+4- what interveiwe ask by tcs ? -- we will discuss 
+5- introduce to pandas 
+
+legend -- automaticall detect the colors of the player 
+loc - location of the legened placement  
+==================   =============
+    Location String      Location Code
+    ==================   =============
+    'best' (Axes only)   0
+    'upper right'        1
+    'upper left'         2
+    'lower left'         3
+    'lower right'        4
+    'right'              5
+    'center left'        6
+    'center right'       7
+    'lower center'       8
+    'upper center'       9
+    'center'             10
+    ==================   =============
+
+python is programming 
+if you have big or more graph if you want to disploy then better use for power 
+
+tableu, power bi job -- sql, python, power 
+
+sql vs python 
+sql -- store large amoutn of data 
+
+sql --- data enginner, cloud, big data , hadoop 
+		using sql you cannot visualize 
+		data bricks -- data engineering 
+		dashboard -- colledtion of graph 
+
+
+===
+1- Introduce your self 
+				fresher -- preprae script (byheart it) 
+				technical script chatgpt 
+		
+2- Resume 4 project with client 
+			make end to end document of all 4 project from staring to end 
+			why you build project 
+			how company benefit cuz of your project 
+			what next step for project
+			how llm, gen, prompt, agent introduce to project 
+			kpi limit of the project 
+			who is client 
+		
+3- interview 1000 question 
+			topic wise interview qustion 
+4- why should i hire you?
+	wher would you see you self after 5yr ? 
+
+5- keep giving interview & do not trust hr 
+
+6- offer litting sitting in you inbox 
+
+confidence, money, time 
+		
+							
+----
+tcs interview question -->
+---
+			
+		
+==== 
+Started with brief introduce, wants to know  what kind of project i have worked previously ,
+what's my role and responsibility, what assignments I do in daily activity.
+
+python
+1.why many way you can merge a list asked to write code.
+2.tuple,when we should use.
+3.generator with example.
+4.pass by value and pass by reference.
+5.how zip function works,with example.
+6.sallow copy and deep copy.
+7.* wrald card operation in python.
+
+8.how you handle exception.
+9.What is MRO algorithm?
+10.how do debug code in python.
+11.how you connect database, with code.
+
+12.program to reverse without using in built function.
+
+ML understanding
+12.how do you build ML model, want to know the ML flow execution.
+13.what the module and package we work on.
+14.pickle and unpickle
+
+SQL
+14.primay and unique key differences.
+18.what is Indexes in sql.
+16 different joins .
+17.what is normalisation why it needs.
+15.what are the different aggerate function.
+19.how you make table Patrion .
+20.Write query to find second highest salary .
+
+hr/managerial
+-----------------
+why do you leave previous company.
+where you want to see your self in 5 yrs
+salary Negotiation 
+
+====
+excel sheet == dataset 
+columns == attribute, feature, variable 
+row == records 
+	
+dataframe = exlce sheet == dataset 
+
+======= padas 
+
+1- user can handle how to fill missing data 
+2- insert & delate from dataframew 
+3- data allignement 
+4- group by 
+5- pd -- numpy, plt 
+6- indexin & slcing 
+7- marge & joing 
+8- reshaping & pivoting
+9- csv file ( excel fild, csv ) 
+10- time series algoriytm 
+11- without panda ml model | ml algorithm 
+
+==== 22nd 
+which are counrny highest birh low interstnet uder 
+
+categorical attributes = text columns 
+numebrical attribute = number 
+
+
+1- how to read datafreame from the system or drive 
+2- head, tail, dtype, len, shape, columns, 
+3- how to read specific attribute 
+4- how to split the data into numerical & categorical 
+5- slicing in dataframe 
+6- how to use slicing & indexing in pandas 
+7- describe -- descriptive statstics 
+		by defaul describe() give you numerical data only 
+	
+describe() -- only it only print numerical data 
+xticks - xaxis 
+yticks - yaxis 
+axix-0 -- rows | axis-1 -- columns 
+
+=== 27th 
+
+
+	
+		
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+	
+==== AI  TOOLS =====
+
+| Tool                                                                           | Best For                | Why It’s Good                                                                                                                  |
+| ------------------------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [ELSA Speak](https://elsaspeak.com?utm_source=chatgpt.com)                     | Pronunciation & accent  | Gives real-time pronunciation correction using AI. Very popular in India. ([Google Play][1])                                   |
+| [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com)                          | Conversation practice   | You can practice daily speaking, interviews, grammar, vocabulary, and roleplay. Voice mode is very powerful. ([Lingoku.AI][2]) |
+| [Speak AI](https://speak.com?utm_source=chatgpt.com)                           | English fluency         | Feels like talking to a real tutor. Strong for speaking confidence. ([Lingtuitive][3])                                         |
+| [SmallTalk2Me](https://smalltalk2.me?utm_source=chatgpt.com)                   | IELTS & speaking tests  | AI evaluates fluency, grammar, pronunciation, and gives CEFR scores. ([SmallTalk2Me][4])                                       |
+| [Duolingo Max](https://www.duolingo.com?utm_source=chatgpt.com)                | Beginners               | Fun daily practice with AI conversation features.                                                                              |
+| [TalkPal AI](https://talkpal.ai?utm_source=chatgpt.com)                        | Daily speaking practice | Real-life dialogues and instant corrections. ([Migaku][5])                                                                     |
+| [Gliglish](https://gliglish.com?utm_source=chatgpt.com)                        | Speaking with AI        | Very natural voice conversations and roleplay practice. ([Gliglish][6])                                                        |
+| [Google Translate](https://translate.google.com?utm_source=chatgpt.com)        | Pronunciation practice  | New AI pronunciation feature helps improve speaking. ([The Verge][7])                                                          |
+| [LanguaTalk AI / Langua](https://languatalk.com/langua?utm_source=chatgpt.com) | Intermediate learners   | Strong conversational AI with corrections and vocabulary tracking. ([LanguaTalk][8])                                           |
+
+[1]: https://play.google.com/store/apps/details?hl=en_IN&id=us.nobarriers.elsa&utm_source=chatgpt.com "ELSA Speak: English Learning – Apps on Google Play"
+[2]: https://lingoku.ai/blog/definitive-guide-to-the-best-online-english-tools?utm_source=chatgpt.com "Best Online English Learning Tools in 2026 (Tested & Ranked)"
+[3]: https://lingtuitive.com/blog/best-ai-speaking-apps?utm_source=chatgpt.com "Best AI Speaking Apps 2026 — 5 Apps Tested & Compared"
+[4]: https://smalltalk2.me/?utm_source=chatgpt.com "SmallTalk2Me: Free AI English Speaking Practice — CEFR ..."
+[5]: https://migaku.com/blog/language-fun/language-learning-with-ai-tools?utm_source=chatgpt.com "Language Learning With AI Tools: Complete Guide for 2026"
+[6]: https://gliglish.com/?utm_source=chatgpt.com "Gliglish · Learn languages by speaking with AI"
+[7]: https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability?utm_source=chatgpt.com "Google Translate can now help you with pronunciation"
+[8]: https://languatalk.com/blog/learn-english-with-ai-english-tutor/?utm_source=chatgpt.com "The best AI English learning apps: tested & reviewed"
+
+============================
+
+
+
+		
+
+
+
+		
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+======
+    Common sense 
+	able to understan 
+	practise 4hr 
+	listen the class when i am speak 
+======
+6month -- multiple studnet offer 	
+18yr skill + prject + resume + intervei + rejection == 1st round clear (confidence) 
+present your skiill== clear your first 
+
+========================	
+Types of error -->
+-----
+	compile time error 
+	run time time error 
+	logical error 
+	error handling 
+	
+Name error - 
+SyntaxError: compile time error (if the error happens from user side ) 
+Index error - index out of range 
+type error 
+AttributeError
+
+=====================
+Instruction -->
+--
+1- please maintain calender & 1hr, 2hr, 
+		write on daily basis - 20 
+2- revise the topic 
+3- as non technical please write the code by see the notes & next time write without see  you code 
+4- if you dont knwo code no problem github copilot, concept need to understa 
+5- maintain the excel sheet which i am sharin on daily basis 	
+		
+===== 📁 Lab Mentors
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+-----------
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+
+=== 📁 Admin’s Details: For fee related query 
+Online Admin’s -> +91 9133343369 Leena Renuka Sri Mam  
+Whatsapp Message: +91 9154861173 Areef Admin Only Whatsapp 
+Offline Admin -> Bheem Sir,
+
+=====📁Backup Video -->
+Day-1: https://youtu.be/Zf4kMwnenEk 
+Day-2: https://youtu.be/L2rtoOlHI98
+Day-3: https://youtu.be/mTohTCoZA1M
+Day-4: https://youtu.be/qNO2rqHj7XQ
+Day-5: https://youtu.be/urW_4xjyQag
+Day-6: https://youtu.be/kvAaQHQEtfE
+Day-7: https://youtu.be/UpP_CGcaqRg
+Day-8: https://youtu.be/TzkMpEpc2sE
+
+
+
+
+
+===📁 Course Contents
+1. https://drive.google.com/file/d/1ThjfPAbqECI8wTnFLUvqpAHQfd_lbXp6/view?usp=drive_link
+2. https://drive.google.com/file/d/1d4gQewyiNj0G8qJN_FL8lul7GlWdQSPd/view?usp=sharing
+
+=== SOFTWARE INSTALLATION 
+👉 Anaconda Installation video --> https://www.youtube.com/watch?v=PhIAQ8rE2xc
+👉 vs code Installation video --> https://www.youtube.com/watch?v=dU1DI05bu68
+
+
+
+

@@ -1,0 +1,39 @@
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 10. Other Functions
+# Create a copy of an array
+a = np.array([1, 2, 3])
+copied_array = np.copy(a)  # Create a copy of array a
+print("Copied array:", copied_array)
+# Size in bytes of an array
+array_size_in_bytes = a.nbytes  # Size in bytes
+print("Size of a in bytes:", array_size_in_bytes)
+# Check if two arrays share memory
+shared = np.shares_memory(a, copied_array)  # Check if arrays share memory
+print("Do a and copied_array share memory?", shared)
+# ========= THANK YOU ============
+
+
