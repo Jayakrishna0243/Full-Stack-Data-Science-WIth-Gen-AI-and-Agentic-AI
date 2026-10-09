@@ -1,0 +1,16 @@
+# Large model files
+
+ML/ML projects/Capstone project_VIP/MOVIE REVIEW ANALYSIS/Movie_Review_Analysys/Deployment_code/model1.pkl
+ML/ML projects/Capstone project_VIP/UBER PRICE ANALYSIS/best_model.pkl
+
+# Large bank datasets
+
+ML/ML projects/bank risk analysis/bank risk analysis/data.csv/application_data.csv
+ML/ML projects/bank risk analysis/bank risk analysis/data.csv/previous_application.csv
+
+# Ignore trained machine learning models
+*.pkl
+
+# Ignore large datasets by filename
+application_data.csv
+previous_application.csv
